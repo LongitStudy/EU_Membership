@@ -1,7 +1,6 @@
 # EU Membership
 This Stata syntax creates an European Union (EU) membership variable consisting of categories that indicate the year each member country acceded to the EU.  
   
-
 There are two versions:
 - Version 1: derives the variable based on country of birth in 2001.
 - Version 2: derives the variable based on country of birth in 2011.  
