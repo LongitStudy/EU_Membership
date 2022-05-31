@@ -7,11 +7,11 @@ There are two versions:
  
 West Germany joined EU in 1951 but the 2001 code does not distinguish between West and East Germany. Therefore everyone born in Germany (cobp0==075) is included in the 2001 version of the syntax.
 
-_Variables needed for version 1 of the code_:
+Variables needed for version 1 of the code:
 - **cobp0** (country of birth 2001)
 - **cobpimp** (cob imputation flag in 2001)
 
-_Variables needed for version 2 of the code_:
+Variables needed for version 2 of the code:
 - **cobp11** (country of birth 2011)
 - **cobp11_imp** (cob imputation flag in 2011)
 
