@@ -14,3 +14,14 @@ _Variables needed for version 1 of the code_:
 _Variables needed for version 2 of the code_:
 - **cobp11** (country of birth 2011)
 - **cobp11_imp** (cob imputation flag in 2011)
+
+The categories are: 
+1. 1951 (includes Belgium, France, Germany, Italy, Luxembourg, the Netherlands).
+2. 1973 (includes Denmark and Ireland (the UK also joined the EU in 1973, but is in a separate category in this syntax))
+3. 1981 (includes Greece).
+4. 1986 (includes Portugal and Spain).
+5. 1995 (includes Austria, Finland and Sweden).
+6. 2004 (includes Cyprus (Republic of Cyprus only), Czech Republic, Estonia, Hungary, Latvia, Lithuania, Malta, Poland, Slovakia, Slovenia).
+7. 2007 (includes Bulgaria and Romania).
+8. United Kingdom.
+9. Elsewhere in the world.
