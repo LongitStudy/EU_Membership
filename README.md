@@ -1,10 +1,10 @@
 # EU Membership
-This Stata syntax creates an European Union (EU) membership variable consisting of categories that indicate the year each member country acceded to the EU.
-
+This Stata syntax creates an European Union (EU) membership variable consisting of categories that indicate the year each member country acceded to the EU.  
 
 There are two versions:
 - Version 1: derives the variable based on country of birth in 2001.
-- Version 2: derives the variable based on country of birth in 2011.
+- Version 2: derives the variable based on country of birth in 2011.  
+
  
 
 West Germany joined EU in 1951 but the 2001 code does not distinguish between West and East Germany. Therefore everyone born in Germany (cobp0==075) is included in the 2001 version of the syntax.
